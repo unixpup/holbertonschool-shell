@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --update=newer *.html ../
+cp --update *.html ../
