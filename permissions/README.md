@@ -1,1 +1,1 @@
-bla bla bla
+Permissions and ownership scripts

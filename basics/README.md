@@ -1,1 +1,1 @@
-This will print the absolute path of the current directory.
+Basic commands and scripts
