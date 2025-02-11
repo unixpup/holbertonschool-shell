@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 -R dir*
+for item in *; do if [ -d "$item" ]; then chmod +x "$item"; fi; done
